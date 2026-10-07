@@ -1,11 +1,8 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Orbit-Your-Music-in-Motion
 =======
 # React + Vite
 =======
 # 💿 Orbit — Music In Motion
->>>>>>> bbe36ca (Revise README for Orbit project details)
 
 **Your music, in motion.**
 
@@ -21,9 +18,6 @@ Orbit is a digital record player that connects to Spotify and transforms your cu
 - 🎨 **Album-Based Background**  
   Orbit extracts colours from the current album artwork and uses them to create a dynamic gradient background.
 
-<<<<<<< HEAD
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
->>>>>>> d085d3f (orbit initial commit!)
 =======
 - 🎵 **Live Spotify Information**  
   Displays the currently playing:
@@ -201,4 +195,3 @@ Potential additions to Orbit include:
 A digital record player for Spotify that brings album artwork, colour, movement, and playback together in one interface.
 
 **Built with React, Vite, and the Spotify Web API.**
->>>>>>> bbe36ca (Revise README for Orbit project details)
