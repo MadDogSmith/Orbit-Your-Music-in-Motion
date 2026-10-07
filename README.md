@@ -1,8 +1,4 @@
-# Orbit-Your-Music-in-Motion
-=======
-# React + Vite
-=======
-# 💿 Orbit — Music In Motion
+# 💿 Orbit — Your Music In Motion
 
 **Your music, in motion.**
 
@@ -18,7 +14,7 @@ Orbit is a digital record player that connects to Spotify and transforms your cu
 - 🎨 **Album-Based Background**  
   Orbit extracts colours from the current album artwork and uses them to create a dynamic gradient background.
 
-=======
+
 - 🎵 **Live Spotify Information**  
   Displays the currently playing:
   - Song title
