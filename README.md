@@ -56,7 +56,7 @@ Orbit is a digital record player that connects to Spotify and transforms your cu
 
 ---
 
-## 🎧 How It Works
+## How It Works
 
 Orbit connects to your Spotify account using Spotify's OAuth PKCE authentication flow.
 
